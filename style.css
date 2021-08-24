@@ -25,12 +25,12 @@
 }
 
 #article img{
-    width: 70%;
+    width: 100%;
     height: 30%;
 }
 
 #article iframe{
-    width: 70%;
+    width: 100%;
     height: 300px;
 }
 
